@@ -1,5 +1,5 @@
 # rbldnsd
-This is a rbldnsd docker container that will allow you to configure environmental variabels for 'ZONE', 'TYPE' and 'OPTONS'
+This is a rbldnsd dockerfile that will allow you to configure environmental variabels for 'ZONE', 'TYPE' and 'OPTONS'
 
 Where environment Variables could be:
 ZONE=rbl.example.com
